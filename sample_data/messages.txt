@@ -1,0 +1,8 @@
+QH12AB34CD Confirmed. You have received Ksh1,500.00 from JOHN DOE 0712345678 on 19/10/26 at 3:30 PM. New M-PESA balance is Ksh5,430.50.
+QH12AB34CE Confirmed. Ksh500.00 sent to JANE WANJIKU 0723456789 on 19/10/26 at 4:00 PM. New M-PESA balance is Ksh4,930.50. Transaction cost, Ksh7.00.
+QH12AB34CF Confirmed. Ksh3,400.00 sent to POWER TOKENS for account 12345678 on 19/10/26 at 4:10 PM. New M-PESA balance is Ksh1,530.50. Transaction cost, Ksh0.00.
+QH12AB34CG Confirmed. Ksh850.00 paid to SUNRISE SUPERMARKET. on 19/10/26 at 4:20 PM. New M-PESA balance is Ksh680.50. Transaction cost, Ksh0.00.
+QH12AB34CH Confirmed. You bought Ksh100.00 of airtime on 19/10/26 at 4:30 PM. New M-PESA balance is Ksh580.50. Transaction cost, Ksh0.00.
+QH12AB34CJ Confirmed. on 19/10/26 at 5:00 PM Withdraw Ksh2,000.00 from 123456 - GRACE AGENT New M-PESA balance is Ksh3,580.50. Transaction cost, Ksh28.00.
+QH12AB34CK Confirmed. Ksh650.00 paid to LAKESIDE PHARMACY. on 20/10/26 at 9:15 AM. New M-PESA balance is Ksh2,930.50. Transaction cost, Ksh0.00.
+This is not an M-Pesa message
